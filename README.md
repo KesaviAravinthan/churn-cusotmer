@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+## Description of Customer Churn
+- Customer churn is the loss of customers by a business for different reasons such as poor service and better price somewhere else.
+ - It is one of the most critical and challenging problems for telecommunication companies, credit card companies, cable service providers, etc. 
+- Since acquiring new customers costs more than retaining existing ones, analyzing customer churn and finding ways to reduce it are vital for businesses.
+- Company wants to analyze the customer churn in his company.
+
+## Functions of Project
+
+Developed a web-based interactive dashboard using Tableau technology to help company to make decisions regarding customer retention. 
+1. The dashboard show various insights into the provided dataset.
+2. Allow the user to obtain the prediction for a new customer.
+
+
+<p align="center">
+<img src="https://github.com/aaivu/aaivu-information-extraction-from-receipts/blob/newBranch/docs/receipt_image_processing.png" width="600">
+</p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
