@@ -12,11 +12,15 @@ Developed a web-based interactive dashboard using Tableau technology to help com
 1. The dashboard show various insights into the provided dataset.
 2. Allow the user to obtain the prediction for a new customer.
 
-
+## Dashboard page
 <p align="center">
-<img src="https://github.com/aaivu/aaivu-information-extraction-from-receipts/blob/newBranch/docs/receipt_image_processing.png" width="600">
+<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/dashboard.png" width="600">
 </p>
 
+## Prection page
+<p align="center">
+<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/prediction.png" width="600">
+</p>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
