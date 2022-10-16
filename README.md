@@ -14,12 +14,12 @@ Developed a web-based interactive dashboard using Tableau technology to help com
 
 ## Dashboard page
 <p align="center">
-<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/dashboard.png" width="600">
+<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/dashboard.png" width="900">
 </p>
 
 ## Prection page
 <p align="center">
-<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/prediction.png" width="600">
+<img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/prediction.png" width="900">
 </p>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
