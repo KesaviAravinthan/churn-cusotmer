@@ -17,7 +17,7 @@ Developed a web-based interactive dashboard using Tableau technology to help com
 <img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/dashboard.png" width="900">
 </p>
 
-## Prection page
+## Prediction page
 <p align="center">
 <img src="https://github.com/KesaviAravinthan/churn-cusotmer/blob/master/screenshots/prediction.png" width="900">
 </p>
